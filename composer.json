@@ -1,0 +1,8 @@
+{
+    "name": "Chasic/php-kafka",
+    "version": "1.0.0",
+    "minimum-stability": "dev",
+    "require-dev": {
+        "kwn/php-rdkafka-stubs": "^1.0.2"
+    }
+}
